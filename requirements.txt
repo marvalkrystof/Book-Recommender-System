@@ -1,0 +1,6 @@
+pandas
+torch
+tf-keras
+transformers
+hf_xet
+streamlit
