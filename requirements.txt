@@ -4,3 +4,5 @@ tf-keras
 transformers
 hf_xet
 streamlit
+gdown
+sentence_transformers
